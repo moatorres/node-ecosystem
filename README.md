@@ -11,6 +11,7 @@
 - [`antd`](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [`react-bootstrap`](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 4 components built with React
 - [`react-csp`](https://github.com/YIZHUANG/react-csp) - Generate Content-Security-Policy for create-react-app without eject
+- [`react-helmet`](https://github.com/nfl/react-helmet) - Manage all of your changes to the document head
 
 #### View Engines
 - [`express-handlebars`](https://github.com/ericf/express-handlebars) - Build semantic templates effectively with no frustration
@@ -37,6 +38,7 @@
 - [`normalize-url`](https://github.com/sindresorhus/normalize-url) - Display, store, deduplicate, sort or compare URLs
 - [`multer`](https://github.com/expressjs/multer) - Middleware for handling `multipart/form-data`
 - [`cookie-parser`](https://github.com/expressjs/cookie-parser) - Parse `Cookie` header and populate `req.cookies` with an object keyed by the cookie names
+- [`helmet`](https://github.com/helmetjs/helmet) - Secure your Express apps by setting various HTTP headers
  
 ## 🔑 Cryptex
 
