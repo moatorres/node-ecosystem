@@ -12,6 +12,7 @@
 - [`react-bootstrap`](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 4 components built with React
 - [`react-csp`](https://github.com/YIZHUANG/react-csp) - Generate Content-Security-Policy for create-react-app without eject
 - [`react-helmet`](https://github.com/nfl/react-helmet) - Manage all of your changes to the document head
+- [`next`](https://github.com/vercel/next.js) - Next.js has _all_ the features you need for production
 
 #### View Engines
 - [`express-handlebars`](https://github.com/ericf/express-handlebars) - Build semantic templates effectively with no frustration
