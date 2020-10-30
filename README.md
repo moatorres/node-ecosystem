@@ -10,7 +10,7 @@
 - [`semantic-ui`](https://github.com/Semantic-Org/Semantic-UI-React) - Semantic UI React is the official React integration for Semantic UI
 - [`antd`](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [`react-bootstrap`](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap 4 components built with React
-- [`react-csp`](https://github.com/YIZHUANG/react-csp) - Generate Content-Security-Policy for create-react-app without eject.
+- [`react-csp`](https://github.com/YIZHUANG/react-csp) - Generate Content-Security-Policy for create-react-app without eject
 
 #### View Engines
 - [`express-handlebars`](https://github.com/ericf/express-handlebars) - Build semantic templates effectively with no frustration
