@@ -48,6 +48,7 @@
 - [`jsonwebtoken`](https://github.com/auth0/node-jsonwebtoken) - An implementation of (RFC7519) [JSON Web Tokens](https://tools.ietf.org/html/rfc7519)
 - [`uuid`](https://github.com/uuidjs/uid) - RFC4122 UUIDs
 - [`nanoid`](https://github.com/ai/nanoid) - A tiny, secure, URL-friendly, unique string ID generator for JavaScript
+- [`cuid`](https://github.com/ericelliott/cuid) - Collision-resistant ids optimized for horizontal scaling and binary search lookup performance
 - [`crypto-js`](https://www.npmjs.com/package/crypto-js) - JavaScript library of crypto standards
 - [`jose`](https://github.com/square/js-jose) - Sign/verify and encrypt/decrypt data in JSON Web Encryption (JWE) and JSON Web Signatures (JWS) formats
 - [`node-jose`](https://github.com/cisco/node-jose) - Implementation of the JSON Object Signing and Encryption (JOSE)
